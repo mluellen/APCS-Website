@@ -3,10 +3,9 @@ body{
 }
 
 header {
-  margin-bottom: 20 px;
-  padding: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
-}
+margin-bottom: 20px;
+padding: 20px;
+border-bottom: 1px solid rgb(0, 174, 255); }
 
 header h1 {
   font-size: 2em;
@@ -30,14 +29,14 @@ a:hover {
 }
 
 .project img, #aboutme img {
-  width: 250 px;
-  float: left;
-  margin-right: 10px;
-  margin-bottom: 10px;
+width: 250px;
+float: left;
+margin-right: 10px;
+margin-bottom: 10px;
 }
 
 .project h2, #aboutme h2 {
-  font-size: 1/5em;
+  font-size: 1.5em;
   margin-bottom: 10px;
 }
 
